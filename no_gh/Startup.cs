@@ -9,6 +9,8 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace no_gh
 {
+  //Gasi
+
     public class Startup
     {
         public Startup(IConfiguration configuration)
